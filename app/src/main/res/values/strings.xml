@@ -11,7 +11,7 @@
 
     <string name="menu_news">News</string>
     <string name="menu_Info">Info-In-Graphics</string>
-    <string name="menu_namo">Namo Exclusive</string>
+    <string name="menu_namo">Namo </string>
     <string name="menu_network">My Network</string>
     <string name="menu_volunteer">Volunteer</string>
     <string name="menu_govt">Govt in Action</string>
@@ -20,6 +20,12 @@
     <string name="menu_setting">Setting</string>
     <string name="menu_help">Help and Feedback</string>
     <string name="menu_qr">QR Scanner</string>
+    <string name="share">Share your memories with PM Modi!</string>
+    <string name="prime_minister">Prime Minister Narendra Modi will share  Mann ki Baat on sunday  October 27th. If you have innovative ideas and suggetions here is an opprtunuity to directly share it with the PM. Some of the suggetions would be reffered by the Prime Minister during his address.</string>
+
+    <string name="pm">PM Modi, Xi Jinping look to refresh India-China ties at Seaside summit today</string>
+
+
 
 
 
